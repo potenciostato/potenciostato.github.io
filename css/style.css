@@ -80,7 +80,9 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-margin-after: 0;
   margin: 0;
   font-weight: 700;
-  font-family: Hind;
+  /* font-family: Hind; */
+  font-style: italic;
+  color: #0f548d;
 }
 h1, h2 {
   font-size: 58px;
@@ -3092,7 +3094,7 @@ b, strong {
 }
 @media (max-width: 991.98px) {
   .footer_6 .hr {
-    margin: 0 0 50px 0;
+    margin: 20px 0 15px 0;
   }
   .footer_6 .title {
     margin-bottom: 15px;
