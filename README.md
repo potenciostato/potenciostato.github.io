@@ -8,6 +8,6 @@ Es un instrumento capaz de caracterizar la impedancia de una sustancia por medio
 Integrantes del grupo:
 - [Arluna, Gustavo](mailto:gustavoarluna@gmail.com)<br>
 - [Gómez Caamaño, Axel Lucas](mailto:gomezaxel.lucas@gmail.com)<br>
-- [Trinidad, Hernán](mailto:htrinidad@dblandit.com)<br>
+- [Trinidad, Hernán](mailto:hernantri@gmail.com)<br>
 
 Para más info visitar la [Página Web Oficial](potenciostato.github.io) del proyecto
