@@ -10,4 +10,4 @@ Integrantes del grupo:
 - [Gómez Caamaño, Axel Lucas](mailto:gomezaxel.lucas@gmail.com)<br>
 - [Trinidad, Hernán](mailto:hernantri@gmail.com)<br>
 
-Para más info visitar la [Página Web Oficial](potenciostato.github.io) del proyecto
+Para más info visitar la [Página Web Oficial](https://potenciostato.github.io) del proyecto
